@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "sfml",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"complex": "cpp",
+			"iostream": "cpp",
+			"*.tcc": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"system_error": "cpp"
+		}
+	}
+}
